@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Clear Spring Acupuncture Site based on Jekyll Netlify Boilerplate & Pixelarity Slate template
-email: paul@clearspringacupuncture.co.uk
+title: Rising Phoenix Tai Chi Website based on Jekyll Netlify Boilerplate & Pixelarity Slate template
+email: info@shibashi.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml.
@@ -39,7 +39,7 @@ analytics: false
 
 google:
   tag_manager:
-    container_id: GTM-T5NTK5
+    container_id: ddddd
 
 
 
@@ -110,27 +110,27 @@ collections:
     testimonials:
         output: false  
         
-twitter:
-  username: csacupuncture
-  card: summary
+#twitter:
+#  username: csacupuncture
+#  card: summary
 #facebook:
 #  app_id: 1234
 #  publisher: 1234
 #  admins: 1234  
-social:
-  name: Clear Spring Acupuncture
-  links:
-    - https://twitter.com/csacupuncture
-    - https://www.facebook.com/clearspringacupuncture
+#social:
+#  name: Clear Spring Acupuncture
+#  links:
+#    - https://twitter.com/csacupuncture
+#    - https://www.facebook.com/clearspringacupuncture
     
 webmaster_verifications:
-  google: 43cdbda52d4c59f4
+#  google: 
 #  bing: 1234
 #  alexa: 1234
   
-title: Acupuncture in Cardiff - Clear Spring Acupuncture - Experienced, Individual Care
-description: Wondering if Acupuncture can help? Please call for a free consultation.
+title: Tai chi & Qi Gong in Cardiff - Rising Phoenix Tai chi - Experienced, Authentic Teaching
+description: Considering trying Tai chi?  Get In touch, all of our classes are friendly and welcoming.
   Discover professional, experienced, authentic Acupuncture, delivered with heart.
-url: https://www.clearspringacupuncture.co.uk
-author: Paul Burdon - Clear Spring Acupuncture
+url: https://www.shibashi.com
+author: Rising Phoenix Tai Chi
 lang: en
