@@ -1,6 +1,6 @@
 ---
 title: Pregnancy & Birth
-image: /images/uploads/pregnancy-birth-551x297.jpg
+image: /images/uploads/tiles/pregnancy-birth-551x297.jpg
 href: /fertility/pregnancy-birth.html
 customtags:
   - women

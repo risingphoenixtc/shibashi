@@ -1,6 +1,6 @@
 ---
 title: Acupuncture Safety
-image: /images/uploads/calendar-pin-closeup551x297.jpg
+image: /images/uploads/tiles/calendar-pin-closeup551x297.jpg
 href: /about-acupuncture/consultation-types.html
 customtags:
   - tiles-aboutacupuncture

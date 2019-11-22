@@ -1,6 +1,6 @@
 ---
 title: How Does It Work?
-image: /images/uploads/chinese-parchment-551x297.jpg
+image: /images/uploads/tiles/chinese-parchment-551x297.jpg
 href: /about-acupuncture/how-does-acupuncture-work.html
 customtags:
   - tiles-aboutacupuncture

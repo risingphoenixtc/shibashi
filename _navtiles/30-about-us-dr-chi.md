@@ -1,7 +1,7 @@
 ---
 
 title: Male Fertility
-image: /images/uploads/young-man-facing-camera-551x297.jpg
+image: /images/uploads/tiles/young-man-facing-camera-551x297.jpg
 href: /fertility/male-fertility.html
 customtags:
   - men

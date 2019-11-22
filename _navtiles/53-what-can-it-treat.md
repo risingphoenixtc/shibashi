@@ -1,6 +1,6 @@
 ---
 title: What Can It Help
-image: /images/uploads/man-relaxing-office-chair551x297.jpg
+image: /images/uploads/tiles/man-relaxing-office-chair551x297.jpg
 href: /about-acupuncture/what-can-acupuncture-help.html
 customtags:
   - tiles-aboutacupuncture

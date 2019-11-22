@@ -1,6 +1,6 @@
 ---
 title: What Is Acupuncture?
-image: /images/uploads/acupuncture-model-back551x297.jpg
+image: /images/uploads/tiles/acupuncture-model-back551x297.jpg
 href: /about-acupuncture/what-is-acupuncture.html
 customtags:
   - tiles-aboutacupuncture

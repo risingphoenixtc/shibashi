@@ -1,6 +1,6 @@
 ---
 title: Health Insurance Cover for Acupuncture
-image: /images/uploads/bridge-missing-plank551x297.jpg
+image: /images/uploads/tiles/bridge-missing-plank551x297.jpg
 href: /about-acupuncture/health-insurance-cover.html
 customtags:
   - tiles-aboutme

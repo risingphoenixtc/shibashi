@@ -1,6 +1,6 @@
 ---
 title: Babies & Toddlers
-image: /images/uploads/baby-in-towel-551x297.jpg
+image: /images/uploads/tiles/baby-in-towel-551x297.jpg
 href: /children-young-people/babies-toddlers.html
 customtags:
   - tiles-children-young-people

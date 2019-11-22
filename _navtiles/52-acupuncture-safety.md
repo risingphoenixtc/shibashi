@@ -1,6 +1,6 @@
 ---
 title: Acupuncture Safety
-image: /images/uploads/child-on-beach-with-spade551x297.jpg
+image: /images/uploads/tiles/child-on-beach-with-spade551x297.jpg
 href: /about-acupuncture/acupuncture-safety.html
 customtags:
   - tiles-aboutacupuncture

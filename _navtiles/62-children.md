@@ -1,6 +1,6 @@
 ---
 title: Children
-image: /images/uploads/children-smiling-551x297.jpg
+image: /images/uploads/tiles/children-smiling-551x297.jpg
 href: /children-young-people/children.html
 customtags:
   - tiles-children-young-people

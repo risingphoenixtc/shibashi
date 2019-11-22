@@ -1,6 +1,6 @@
 ---
 title: Mens Health
-image: /images/uploads/man-fitting-laminate551x297.jpg
+image: /images/uploads/tiles/man-fitting-laminate551x297.jpg
 href: /male-health/
 customtags:
   - tiles-gender-health

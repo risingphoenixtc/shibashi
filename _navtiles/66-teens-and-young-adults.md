@@ -1,6 +1,6 @@
 ---
 title: Teens & young Adults
-image: /images/uploads/teenagers-by-wall-551x297.jpg
+image: /images/uploads/tiles/teenagers-by-wall-551x297.jpg
 href: /children-young-people/teenagers-young-adults.html
 customtags:
   - tiles-children-young-people

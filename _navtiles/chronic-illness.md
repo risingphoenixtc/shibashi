@@ -1,7 +1,7 @@
 ---
 
 title: Chronic Illness & Pain
-image: /images/uploads/baby-in-towel-551x297.jpg
+image: /images/uploads/tiles/baby-in-towel-551x297.jpg
 href: /chronic-illness.html
 customtags:
   - tiles-adult
