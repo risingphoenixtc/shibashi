@@ -24,9 +24,7 @@
 	<header id="header" class="{{ include.class }}">
            
 		<h1><a href="{{ site.baseurl }}/">
-                         <!--{% include components/logo-horizontal.html %}-->
-                         {% include components/logo-horizontal-svg.html %}
-			<!--{{ site.title }} <span>{{ site.tagline }}</span>-->
+                         {% include components/logo-horizontal.html %}
 		</a></h1>
 		<nav id="nav">
 			<ul>
@@ -37,16 +35,18 @@
                             <li>
                                     <a href="/what-we-teach/"  class="submenu fa-angle-down">What We Teach</a>
                                     <ul>
+                                            <li><a href="/what-we-teach/">Overview</a></li>
                                             <li><a href="/what-we-teach/tai-chi.html">Tai Chi</a></li>
                                             <li><a href="/what-we-teach/qi-gong.html">Qi Gong</a></li>
                                             <li><a href="/what-we-teach/shibashi.html">Shibashi</a></li>
-                                            <li><a href="/eight-pieces-of-brocade.html">8 Pieces of Brocade</a></li>
+                                            <li><a href="/what-we-teach/eight-pieces-of-brocade.html">8 Pieces of Brocade</a></li>
                                            
                                     </ul>
                             </li>
                             <li>
                                 <a href="/about-us/" class="submenu fa-angle-down">About Us</a>
                                     <ul>
+                                         <li><a href="/about-us/">Introduction</a></li>
                                          <li><a href="/about-us/biography.html">About Christie</a></li>
                                         <li><a href="/about-us/cheng-man-ching.html">Cheng Man Ching</a></li>
                                         <li><a href="/about-us/dr-chi.html">Dr Chi</a></li>
@@ -57,34 +57,38 @@
                                         <li><a href="/about-us/insurance.html">Insurance</a></li>
                                     </ul>
                             </li>
-                             <li><a href="/tai-chi-information/" class="submenu  fa-angle-down">Tai Chi Information</a>
+                             <li><a href="/about-tai-chi/" class="submenu  fa-angle-down">About Tai Chi</a>
                                 <ul>
-                                    <li><a href="/tai-chi-information/principles-of-tai-chi.html" class=" ">Principles of Tai Chi</a>  </li>
-                                    <li><a href="/tai-chi-information/yin-and-yang.html" class=" ">Yin and Yang</a>  </li>
-                                    <li><a href="/tai-chi-information/what-is-chi.html" class=" ">What is Chi?</a>  </li>
-                                    <li><a href="/tai-chi-information/water-tai-chi-classics.html" class=" ">Water Tai chi Classics</a>  </li>
-                                    <li><a href="/tai-chi-information/recommended-reading.html" class=" ">Recommended Reading</a>  </li>
-                                    <li><a href="/tai-chi-information/commentaries-on-tai-chi-classics.html" class=" ">Commentaries on Tai Chi Classics</a>  </li>
+                                    <li><a href="/about-tai-chi/" >Index</a>  </li>
+                                    <li><a href="/about-tai-chi/tai-chi-as-meditation.html" >Tai Chi as Meditation</a>  </li>
+                                    <li><a href="/about-tai-chi/tai-chi-as-a-martial-art.html" >Tai Chi as a Martial Art</a>  </li>
+                                    <li><a href="/about-tai-chi/principles-of-tai-chi.html" >Principles of Tai Chi</a>  </li>
+                                    <li><a href="/about-tai-chi/yin-and-yang.html" >Yin and Yang</a>  </li>
+                                    <li><a href="/about-tai-chi/what-is-chi.html" >What is Chi?</a>  </li>
+                                    <li><a href="/about-tai-chi/water-tai-chi-classics.html" >Water Tai chi Classics</a>  </li>
+                                    <li><a href="/about-tai-chi/recommended-reading.html" >Recommended Reading</a>  </li>
+                                    <li><a href="/about-tai-chi/commentaries-on-tai-chi-classics.html" >Commentaries on Tai Chi Classics</a>  </li>
                                 </ul>
                             </li>
                             
-                             <li><a href="/benefits-of-tai-chi.html" class="submenu  fa-angle-down">Benefits of Tai Chi?</a>
+                             <li><a href="/benefits-of-tai-chi/" class="submenu  fa-angle-down">Benefits</a>
                                 <ul>
-                                    <li><a href="/benefits-of-tai-chi/health.html" class=" ">Health</a>  </li>
-                                    <li><a href="/benefits-of-tai-chi/relaxation.html" class=" ">Relaxation</a>  </li>
-                                    <li><a href="/benefits-of-tai-chi/confidence.html" class=" ">Confidence</a>  </li>
+                                    <li><a href="/benefits-of-tai-chi/" >Overview</a>  </li>
+                                    <li><a href="/benefits-of-tai-chi/health.html" >Health</a>  </li>
+                                    <li><a href="/benefits-of-tai-chi/relaxation.html" >Relaxation</a>  </li>
+                                    <li><a href="/benefits-of-tai-chi/confidence.html" >Confidence</a>  </li>
                                 </ul>
                             </li>
-                             <li><a href="/workplace-tai-chi/" class="submenu  fa-angle-down">Workplace Tai Chi</a>
+                             <li><a href="/workplace-tai-chi/" class="submenu  fa-angle-down">Workplace</a>
                                 <ul>
-                                    <li><a href="/workplace-tai-chi/workplace-services.html" class=" ">Workplace Services</a>  </li>
-                                    <li><a href="/workplace-tai-chi/our-clients.html" class=" ">Our Clients</a>  </li>
+                                    <li><a href="/workplace-tai-chi/" >Overview</a></li>
+                                    <li><a href="/workplace-tai-chi/workplace-services.html" >Workplace Services</a>  </li>
+                                    <li><a href="/workplace-tai-chi/our-clients.html" >Our Clients</a>  </li>
                                 </ul>
                             </li>
-                            <li><a href="{{ site.baseurl }}/common-questions.html">Classes & Workshops</a></li>
+                            <li><a href="/common-questions.html">Classes</a></li>
                             <li><a href="#contact-trigger" class="contact-trigger">Contact</a></li>
                             <!--<li><a href="{{ site.baseurl }}/blog">Blog</a></li>-->
-                            <li><a href="{{ site.baseurl }}/how-to-book.html" class="button">Book an Appt</a></li>
 			</ul>
 		</nav>
 	</header>

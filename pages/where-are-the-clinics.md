@@ -1,11 +1,11 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: WHere Are the Clinics
-permalink: /where-are-the-clinics.html
+title: Where Are the Classes
+permalink: /where-are-the-classes.html
 ---
 
-### Gaia - Pontcanna
+### Albert Rd
 
 Gaia lifestyle
 86 Severn Rd
